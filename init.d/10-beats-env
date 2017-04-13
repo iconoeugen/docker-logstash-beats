@@ -1,0 +1,5 @@
+#!/bin/bash
+
+: ${ELASTICSEARCH_HOST:=localhost}
+: ${ELASTICSEARCH_PORT:=9200}
+: ${LS_BEATS_PORT:=5044}
